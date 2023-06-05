@@ -1,4 +1,8 @@
 # Обученные модели с адаптерами
+
+Модели можно найти по здесь:
+https://drive.google.com/drive/folders/1jgp3GvM-jeaynyMh_-PJ337GVVbIedRH?usp=sharing
+
 Для активации адаптеров
 ```
 tokenizer_name ='bert-base-uncased'
